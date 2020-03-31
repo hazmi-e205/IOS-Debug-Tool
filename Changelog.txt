@@ -1,0 +1,12 @@
+Version 1.1
+=============
+- Fixed some UI issue
+- Fixed print message if there is no iTunes
+- Rework logcat (syslog), parse raw log with regex
+- Improvement logcat search feature
+  (support text and regex, filter by Process ID)
+
+
+Version 1.0 (Unrelease)
+=======================
+- Initial build
