@@ -1,3 +1,8 @@
+Version 1.1-r1
+=============
+- Fixed regex of date time caused log missing
+
+
 Version 1.1
 =============
 - Fixed some UI issue
