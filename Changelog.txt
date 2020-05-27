@@ -3,6 +3,7 @@ Version 1.2
 - Update iMobileDevice binaries (v1.2.201)
 - Change Process ID to textbox
 - Shortcut double click on log to filter by selected log Process ID
+- Device name removal on logcat (follow idevicesyslog format)
 
 
 Version 1.1-r1
