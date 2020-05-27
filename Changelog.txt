@@ -1,3 +1,10 @@
+Version 1.2
+=============
+- Update iMobileDevice binaries (v1.2.201)
+- Change Process ID to textbox
+- Shortcut double click on log to filter by selected log Process ID
+
+
 Version 1.1-r1
 =============
 - Fixed regex of date time caused log missing
