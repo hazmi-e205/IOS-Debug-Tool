@@ -1,3 +1,14 @@
+Version 1.3
+=============
+- Updated iMobileDevice binaries (v1.2.219)
+- Added simple updater (Help -> Update)
+- Added link to documentation (Help -> Quick Guide)
+- Added developer disk image mounter (Misc or File -> Developer Image Mounter)
+- Added screenshot (Misc)
+- Added run with parameters (Misc)
+- Fixed hang and show behind main form for File Browser
+
+
 Version 1.2
 =============
 - Update iMobileDevice binaries (v1.2.201)
