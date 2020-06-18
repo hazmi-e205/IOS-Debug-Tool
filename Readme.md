@@ -1,5 +1,8 @@
-# iDebugTool (DDMS-like for IOS Platform)
-This project is debugging tool for ios developmont based on [libimobiledevice](https://github.com/libimobiledevice-win32/libimobiledevice-vs) project and work cross platform (windows and linux).
+# iDeviceTool (IOS Debugging Tool Cross-platform)
+> **Supported OS:** Windows and Linux (64 bit)
+
+![Screenshot](https://i.ibb.co/bB6zzVK/idebugtool-ss.png)
+<br>This tool is wrapper of iMobileDevice and maybe we'll be add more useful IOS development tool that can work cross platform here. Inspired from Console app on MacOS for debugging Apple Development, why don't we bring them to "isekai" since more of app developer out there working remotely (using MocOS device just for build machine)
 
 
 ### Features
@@ -14,8 +17,8 @@ This project is debugging tool for ios developmont based on [libimobiledevice](h
 
 ### Requirement
 + iTunes (Windows only)
-+ JDK 1.8.0 with JavaFX included
-<br>Oracle JDK bundled JavaFX, if you use OpenJDK patch with  or install OpenJFX via package manager for linux system
++ JDK 8 (1.8.0) with JavaFX included
+<br>Oracle JDK already bundled JavaFX. If you use OpenJDK 8, make sure OpenJFX 8 installed or included on OpenJDK.
 
 
 ### How to use
