@@ -1,3 +1,14 @@
+Version 1.4.0
+=============
+- Start to use Semantic Versioning
+- Moved all tools to proper folder
+- Updated iMobileDevice binaries (v1.3.4)
+- Added diagnostics command (Misc)
+  Supported: shutdown, restart, sleep
+- Added feature save last browse path
+- Added exclude log by text or regex
+
+
 Version 1.3
 =============
 - Updated iMobileDevice binaries (v1.2.219)

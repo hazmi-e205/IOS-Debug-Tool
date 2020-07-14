@@ -14,7 +14,7 @@ for %%i in ("%cd%") do set prog_dir=%%~fsi
 
 rem Check we have a valid Java.exe in the path.
 set java_exe=
-call tools\find_java.bat
+call tools\FindJava\find_java.bat
 if not defined java_exe goto :EOF
 
 set jarpath=iDebugTool.jar
