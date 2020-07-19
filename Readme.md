@@ -1,18 +1,19 @@
-# iDeviceTool (IOS Debugging Tool Cross-platform)
+# iDebugTool (IOS Debugging Tool Cross-platform)
 > **Supported OS:** Windows and Linux (64 bit)
 
-![Screenshot](https://i.ibb.co/bB6zzVK/idebugtool-ss.png)
+![Screenshot](https://i.ibb.co/J7qqPGf/idebugtool-140.png)
 <br>This tool is wrapper of iMobileDevice and maybe we'll be add more useful IOS development tool that can work cross platform here. Inspired from Console app on MacOS for debugging Apple Development, why don't we bring them to "isekai" since more of app developer out there working remotely (using MocOS device just for build machine)
 
 
 ### Features
 + Device Information
-+ Live Log
++ Live Logcat with filter and exclude by text or regex
 + App Manager (Install / Uninstall)
 + Copy crashlogs from device
 + Developer Image Mounter
 + Screenshot
 + Run with parameters
++ Diagnostics (Shutdown, Restart, Sleep)
 
 
 ### Requirement
