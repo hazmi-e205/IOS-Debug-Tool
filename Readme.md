@@ -2,7 +2,7 @@
 > **Supported OS:** Windows and Linux (64 bit)
 
 ![Screenshot](https://i.ibb.co/J7qqPGf/idebugtool-140.png)
-<br>This tool is wrapper of iMobileDevice and maybe we'll be add more useful IOS development tool that can work cross platform here. Inspired from Console app on MacOS for debugging Apple Development, why don't we bring them to "isekai" since more of app developer out there working remotely (using MocOS device just for build machine)
+<br>This tool is wrapper of iMobileDevice and maybe we'll be add more useful IOS development tool that can work cross platform here. Inspired from Console app on MacOS for debugging Apple Development, why don't we bring them to "isekai" since more of app developer out there working remotely (using MacOS device just for build machine)
 
 
 ### Features
