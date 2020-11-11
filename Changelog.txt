@@ -1,3 +1,9 @@
+Version 1.4.2
+=============
+- Updated iMobileDevice binaries (v1.3.6)
+- Fixed image mounter wrong mounter status
+
+
 Version 1.4.1
 =============
 - Minor fix for Simple Updater
